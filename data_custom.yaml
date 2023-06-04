@@ -1,0 +1,5 @@
+train: C:\Custom Object Detection\yolov8_custom\train
+val: C:\Custom Object Detection\yolov8_custom\val
+
+nc: 2
+names: ["KAVI_ARASAN","KAMALESH"]
